@@ -33,13 +33,13 @@ A comparative study of spatial filters for removing additive noise.
 
 ### Assignment 2: Edge Detection & Frequency Domain
 
-#### [Part 1: Spatial Edge Detectors](./Assignment_2_Edge_Detection/Part1_Spatial_Edge_Detectors.ipynb)
+#### [Part 1: Spatial Edge Detectors](./Assignment_2_Edge_Detection/image1/assignment2_part1.ipynb)
 Developed and compared various gradient-based edge detection operators.
 * **Algorithms:** Sobel, Prewitt, Laplacian, and Canny Edge Detector.
 * **Metric:** **Edge Density** (Ratio of edge pixels to total pixels).
 * **Observations:** The **Canny detector** demonstrated the highest efficiency, producing thin, continuous edges with the lowest edge density compared to the thicker responses of Sobel and Prewitt.
 
-#### [Part 2: Frequency Domain Filtering](./Assignment_2_Edge_Detection/Part2_Frequency_Domain_Filters.ipynb)
+#### [Part 2: Frequency Domain Filtering](./Assignment_2_Edge_Detection/image1/assignment2_part2.ipynb)
 Explored image filtering in the frequency domain using Fourier Transforms (FFT).
 * **Technique:** High-Pass Filtering (HPF) with varying radii (0.05, 0.12, 0.25).
 * **Results:** demonstrated the inverse relationship between filter radius and edge density; larger radii (e.g., 0.25) acted as "stricter" filters, retaining only the sharpest structural outlines.
