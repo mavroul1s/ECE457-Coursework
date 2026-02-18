@@ -33,7 +33,7 @@ A comparative study of spatial filters for removing additive noise.
 
 ### Assignment 2: Edge Detection & Frequency Domain
 
-#### [Part 1: Spatial Edge Detectors](./Assignment_2_Edge_Detection/image1/assignment2_part1.ipynb)
+#### [Part 1: Spatial Edge Detectors](./Assignment_2_Edge_Detection/Part1_Spatial_Edge_Detectors/image1/assignment2_part1.ipynb)
 Developed and compared various gradient-based edge detection operators.
 * **Algorithms:** Sobel, Prewitt, Laplacian, and Canny Edge Detector.
 * **Metric:** **Edge Density** (Ratio of edge pixels to total pixels).
