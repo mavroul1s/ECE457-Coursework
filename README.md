@@ -39,7 +39,7 @@ Developed and compared various gradient-based edge detection operators.
 * **Metric:** **Edge Density** (Ratio of edge pixels to total pixels).
 * **Observations:** The **Canny detector** demonstrated the highest efficiency, producing thin, continuous edges with the lowest edge density compared to the thicker responses of Sobel and Prewitt.
 
-#### [Part 2: Frequency Domain Filtering](./Assignment_2_Edge_Detection/Part2_Frequency_Domain_Filtersimage1/assignment2_part2.ipynb)
+#### [Part 2: Frequency Domain Filtering](./Assignment_2_Edge_Detection/Part2_Frequency_Domain_Filters/image1/assignment2_part2.ipynb)
 Explored image filtering in the frequency domain using Fourier Transforms (FFT).
 * **Technique:** High-Pass Filtering (HPF) with varying radii (0.05, 0.12, 0.25).
 * **Results:** demonstrated the inverse relationship between filter radius and edge density; larger radii (e.g., 0.25) acted as "stricter" filters, retaining only the sharpest structural outlines.
